@@ -10,7 +10,8 @@ Summary(pl):	Lingua::Stem::It - algorytm Portera okre¶laj±cy rdzenie s³ów dla jê
 Name:		perl-Lingua-Stem-It
 Version:	0.01
 Release:	2
-License:	GPL or Artistic
+# same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	b06d70d6ce3763bb33b4d9f3c04b996f
