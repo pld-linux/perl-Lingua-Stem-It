@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Lingua
-%define	pnam	Stem-It
+%define		pdir	Lingua
+%define		pnam	Stem-It
 Summary:	Lingua::Stem::It - Porter's stemming algorithm for Italian
 Summary(pl):	Lingua::Stem::It - algorytm Portera okre¶laj±cy rdzenie s³ów dla jêzyka w³oskiego
 Name:		perl-Lingua-Stem-It
