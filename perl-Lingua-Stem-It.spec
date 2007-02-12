@@ -6,7 +6,7 @@
 %define		pdir	Lingua
 %define		pnam	Stem-It
 Summary:	Lingua::Stem::It - Porter's stemming algorithm for Italian
-Summary(pl):	Lingua::Stem::It - algorytm Portera okre∂laj±cy rdzenie s≥Ûw dla jÍzyka w≥oskiego
+Summary(pl.UTF-8):   Lingua::Stem::It - algorytm Portera okre≈õlajƒÖcy rdzenie s≈Ç√≥w dla jƒôzyka w≈Çoskiego
 Name:		perl-Lingua-Stem-It
 Version:	0.01
 Release:	3
@@ -27,11 +27,11 @@ returning the stemmed words.
 The algorithm is implemented exactly as described in:
 http://snowball.tartarus.org/italian/stemmer.html .
 
-%description -l pl
-Ten modu≥ stosuje do swoich parametrÛw algorytm Portera okre∂laj±cy
-rdzenie s≥Ûw, zwracaj±c te rdzenie.
+%description -l pl.UTF-8
+Ten modu≈Ç stosuje do swoich parametr√≥w algorytm Portera okre≈õlajƒÖcy
+rdzenie s≈Ç√≥w, zwracajƒÖc te rdzenie.
 
-Zaimplementowany zosta≥ algorytm opisany na stronie:
+Zaimplementowany zosta≈Ç algorytm opisany na stronie:
 http://snowball.tartarus.org/italian/stemmer.html .
 
 %prep
