@@ -8,13 +8,13 @@
 Summary:	Lingua::Stem::It - Porter's stemming algorithm for Italian
 Summary(pl.UTF-8):	Lingua::Stem::It - algorytm Portera określający rdzenie słów dla języka włoskiego
 Name:		perl-Lingua-Stem-It
-Version:	0.01
-Release:	3
+Version:	0.02
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	b06d70d6ce3763bb33b4d9f3c04b996f
+# Source0-md5:	611ec6d600f1280aa6c510c83b7bc4a2
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
