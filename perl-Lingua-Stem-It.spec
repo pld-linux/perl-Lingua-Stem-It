@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests	# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	Lingua
 %define		pnam	Stem-It
 Summary:	Lingua::Stem::It - Porter's stemming algorithm for Italian
